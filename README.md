@@ -1,4 +1,4 @@
-# 🌿 mefeed
+# 🌿 MeFeed
 
 > *Your quiet corner. One thought a day.*
 
